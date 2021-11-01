@@ -5,3 +5,5 @@
 
 クリックマークは当初、Kreativ(クリエイティブ)というウェブデザイン事務所としてスタートをしました。
 最初の事務所は、代表の地元淡路島にオープンをしました。
+
+Clickmark is a digital marketing company headquartered in Kobe Japan. We proudly produce best in class digital marketing solutions to help our clients reach their customers around the globe.
